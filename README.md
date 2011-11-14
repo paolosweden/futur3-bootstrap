@@ -8,7 +8,7 @@ contengono applicazioni
 * img/logo.png
 nel cui interno si trova il logo versione 2011
 * js/ & /lib
-le versioni customizzate per le nostre esigenze di Twitter Bootstrap
+le versioni customizzate per le nostre esigenze di [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
 
 Si prevede di modificare la libreria per adeguarla alle esigenze di comunicazione integrata sicuramente nei seguenti elementi:
 
